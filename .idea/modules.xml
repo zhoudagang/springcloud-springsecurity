@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-gateway/cloud-api-gateway.iml" filepath="$PROJECT_DIR$/cloud-api-gateway/cloud-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-authentication-server/cloud-authentication-server.iml" filepath="$PROJECT_DIR$/cloud-authentication-server/cloud-authentication-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-authentization-server/cloud-authentization-server.iml" filepath="$PROJECT_DIR$/cloud-authentization-server/cloud-authentization-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-sysadmin/cloud-sysadmin.iml" filepath="$PROJECT_DIR$/cloud-sysadmin/cloud-sysadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud2020.iml" filepath="$PROJECT_DIR$/.idea/springcloud2020.iml" />
+    </modules>
+  </component>
+</project>

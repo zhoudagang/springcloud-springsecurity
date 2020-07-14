@@ -1,0 +1,25 @@
+server:
+  port: 8001
+
+feign:
+  hystrix:
+    enabled: true
+
+spring:
+  application:
+    name: cloud-authentization-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.1.101:8848
+  #jwt的密钥
+  security:
+    oauth2:
+      jwt:
+        signingKey: 123456
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

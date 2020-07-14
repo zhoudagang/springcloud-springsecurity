@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-authentization-client" />
+        <module name="cloud-api-gateway" />
+        <module name="cloud-gateway9527" />
+        <module name="cloud-authentization-server" />
+        <module name="cloud-authentication-server" />
+        <module name="cloud-sysadmin" />
+        <module name="cloud-api-commons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-api-commons" target="1.8" />
+      <module name="cloud-api-gateway" target="1.8" />
+      <module name="cloud-auth" target="1.8" />
+      <module name="cloud-authentication-server" target="1.8" />
+      <module name="cloud-authentization-client" target="1.8" />
+      <module name="cloud-authentization-server" target="1.8" />
+      <module name="cloud-gateway" target="1.8" />
+      <module name="cloud-gateway9527" target="1.8" />
+      <module name="cloud-order" target="1.8" />
+      <module name="cloud-sysadmin" target="1.8" />
+      <module name="springcloud2020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
